@@ -2,10 +2,10 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website contents
 
-JFIOEWHIUFHEWJPWEQIFHIEWHIFPEWJFEWIHFIEWIFEWPOJFEW
+Landing page 
 
-##MORE IPSUM
+About Me
 
-fkwpfkjepofwjfpewf
+More
